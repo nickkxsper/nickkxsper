@@ -21,7 +21,7 @@ I studied mathematics at the University of Texas at Austin, and I'm currently a 
 ![image](https://user-images.githubusercontent.com/54164007/210489856-92449593-86eb-4b5d-a60f-3c285d5944d3.png)
 
 
-I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 My experience in financial services has touched multiple asset classes, including research & development in the equity options market microstructure research team at the SEC, data analytics & data mining using cryptocurrency market & blockchain data in the boutique consulting space, and quant development, systematic strategy research, and predictive modeling at a quantitative hedge fund.
 
