@@ -1,43 +1,32 @@
-<html>
-  <head>
-    Nick Kasper, B.S Mathematics. Software Engineer at Goldman Sachs with 2+ years of professional experience spanning software, data science, and quant dev.
-  </head>
-  <body>
-    <h1>Welcome to my GitHub profile</h1>
-    <p>I am proficient in the following programming languages and tools:</p>
-    <ul>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="50">
-        Python
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50">
-        JavaScript
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50">
-        React
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nextjs-logo.png" alt="Next.js" width="50">
-        Next.js
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="50">
-        Scikit-learn
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="Tensorflow" width="50">
-        Tensorflow
-      </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="SQL" width="50">
-        SQL
-      </li>
-    </ul>
-    <p>I am also familiar with the following development tools:</p>
-    <ul>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="50">
-        Visual Studio Code
-      </li>
+### Hey There! 
+<a href="https://www.instagram.com/kaspen0/">
+  <img align="left" alt="Nick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  
+<a href="https://www.linkedin.com/in/nick-kasper/">
+  <img align="left" alt="Nick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=nickkxsper.nickkxsper)
+
+<br />
+
+hi, i'm Nick, a passionate full stack developer, data scientist, and quantitative developer from Texas. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src = "https://user-images.githubusercontent.com/54164007/210488560-fda182f9-0515-48ee-a34d-be787bea0d43.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54164007/210488651-dd0aea4a-a9cc-47ee-a922-cbac2943f662.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54164007/210488812-311a1571-e61d-40b1-8ede-953e118d1169.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54164007/210488682-fbae631a-98a6-4a65-ae9b-1c842cb90631.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54164007/210488691-434f1b47-82de-471a-9a97-34c0d7a5f481.png"></code>
