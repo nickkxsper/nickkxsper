@@ -27,7 +27,7 @@ My experience in financial services has touched multiple asset classes, includin
 
 
 
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help
 
 **My Toolkit:**  
   
