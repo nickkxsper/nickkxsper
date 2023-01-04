@@ -1,9 +1,13 @@
 ### Hey There! 
-<a href="https://www.instagram.com/kaspen0/">
-  <img align="left" alt="Nick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  
 <a href="https://www.linkedin.com/in/nick-kasper/">
   <img align="left" alt="Nick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  
+<a href="https://www.instagram.com/kaspen0/">
+  <img align="left" alt="Nick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+ 
+<a href="[https://www.instagram.com/kaspen0/](https://open.spotify.com/user/kasperomg?si=e39cefd494724b3b)">
+  <img align="left" alt="Nick's Spotify" width="22px" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://user-images.githubusercontent.com/54164007/210489212-20181b82-c84d-4c3e-9614-80df680c68f3.png)" />
+ 
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nickkxsper.nickkxsper)
