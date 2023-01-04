@@ -14,9 +14,11 @@
 
 <br />
 
-hi, i'm Nick, a passionate full stack developer from Texas. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I studied mathematics at the University of Texas at Austin, and I'm currently a software engineer at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development.
+Hi, I'm Nick, a passionate full stack developer from Texas. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces & intuitive functionality. I take great care in the experience, architecture, and code quality of the things I build. 
+<br /> <br />
+I studied mathematics at the University of Texas at Austin, and I'm currently a software engineer at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
 - 💬 ask me about anything, i am happy to help;
