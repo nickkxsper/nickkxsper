@@ -26,9 +26,10 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**My Toolkit:**  
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54164007/210490123-0d9397f1-8fb5-4033-a802-9e581956082a.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/54164007/210489677-f289975c-05ea-4c9f-9e19-423c70fa47bc.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
