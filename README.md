@@ -1,10 +1,6 @@
 ### Hey There! 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=nickkxsper.nickkxsper)
-
 <br />
-
 Hi, I'm Nick. I take great care in the experience, architecture, and code quality of the things I build. 
 <br /> <br />
 I studied mathematics at the University of Texas at Austin (hook 'em), and I'm currently a quant at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development.
