@@ -14,16 +14,11 @@
 
 <br />
 
-Hi, I'm Nick, a passionate full stack developer from Texas. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces & intuitive functionality. I take great care in the experience, architecture, and code quality of the things I build. 
+Hi, I'm Nick. I take great care in the experience, architecture, and code quality of the things I build. 
 <br /> <br />
-I studied mathematics at the University of Texas at Austin (hook 'em), and I'm currently a software engineer at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development. In college, I was a director of Undergraduate Computational Finance, an organization that has alum all over wall street & silicon valley.
+I studied mathematics at the University of Texas at Austin (hook 'em), and I'm currently a quant at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development.
   
 ![image](https://user-images.githubusercontent.com/54164007/210489856-92449593-86eb-4b5d-a60f-3c285d5944d3.png)
-
-
-I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
-
-My experience in financial services has touched multiple asset classes, including research & development in the equity options market microstructure research team at the SEC, data analytics & data mining using cryptocurrency market & blockchain data in the boutique consulting space, and quant development, systematic strategy research, and predictive modeling at a quantitative hedge fund.
 
 
 
