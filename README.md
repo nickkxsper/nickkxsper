@@ -4,9 +4,6 @@
 Hi, I'm Nick. I take great care in the experience, architecture, and code quality of the things I build. 
 <br /> <br />
 I studied mathematics at the University of Texas at Austin (hook 'em), and I'm currently a quant at Goldman Sachs. My previous experience spans 2+ years in professional software engineering, data science & data engineering, & quantitative research/development.
-  
-![image](https://user-images.githubusercontent.com/54164007/210489856-92449593-86eb-4b5d-a60f-3c285d5944d3.png)
-
 
 
 - 💬 ask me about anything, I am happy to help
